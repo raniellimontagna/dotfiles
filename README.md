@@ -1,5 +1,8 @@
 # dotfiles (Zorin OS)
 
+> [!WARNING]
+> **Discontinued.** These Zorin OS dotfiles are no longer maintained and the repository is archived (read-only). Current machine setups live in [mac-setup](https://github.com/raniellimontagna/mac-setup) and [windows-setup](https://github.com/raniellimontagna/windows-setup).
+
 Automated setup for a fresh **Zorin OS** machine. Run **one command** after installing the OS and get your full development environment ready with modern tools, optimized shell, and sensible defaults.
 
 > 🎯 **Zorin-first**: Since Zorin is Ubuntu-based, everything uses `apt` and official Ubuntu/Debian repositories.
